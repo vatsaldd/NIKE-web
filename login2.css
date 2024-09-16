@@ -1,0 +1,112 @@
+.con2{
+    height: 1000px;
+    width: 105%;
+    background-color: rgb(247, 247, 247);
+}
+
+.con3{
+    height: 450px;
+    width: 450px;
+    padding-top: 60px;
+    margin-left: 400px;
+        
+}
+.nike_logo{
+    height: 20px;
+    width: 56px;
+}
+
+.con3 p{
+    font-size: 34px;
+    font-family: Arial;
+    font-weight: 400;
+}
+
+.con3 h5{
+    font-size: 15px;
+    font-family:Segoe UI;
+    font-weight: 100;
+}
+
+.con3 h4{
+    font-family: Arial;
+    margin-top: 40px;
+    font-weight: 300;
+    color: rgb(173, 171, 171);
+}
+
+
+
+.con3 .code{
+    height: 50px;
+    width: 430px;
+    border: 1px solid rgb(66, 64, 64);
+    border-radius: 5px;
+}
+
+.con3 .code span{
+    font-size: 20px;
+    font-family:Segoe UI;
+    font-weight: 300;
+    color: rgb(58, 56, 56);
+}
+
+.con3 .name{
+    display: flex;
+}
+.con3 .fname{
+    height: 50px;
+    width: 200px;
+    border: 1px solid rgb(66, 64, 64);
+    border-radius: 5px;
+}
+
+.con3 .fname span{
+    font-size: 20px;
+    font-family:Segoe UI;
+    font-weight: 300;
+    color: rgb(58, 56, 56);
+}
+
+.con3 .lname{
+    height: 50px;
+    width: 200px;
+    border: 1px solid rgb(66, 64, 64);
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.con3 .lname span{
+    font-size: 20px;
+    font-family:Segoe UI;
+    font-weight: 300;
+    color: rgb(58, 56, 56);
+}
+
+.con3 h2{
+   display: flex;
+   align-items: center;
+   padding-left: 10px;
+}
+
+.con3 .button{
+    height: 43px;
+    width: 170px;
+    border: 1px solid black;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    margin-left: 325px;
+    margin-top: 60px;
+    font-family:Arial ;
+}
+
+.con3 .button:hover{
+
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+
